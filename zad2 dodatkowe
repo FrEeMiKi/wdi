@@ -23,4 +23,4 @@ while x > suma:
 if suma == x:
     print(f"Istnieje podciąg ciągu Fibonacciego o sumie {x}")
 else:
-     print(f"Nie ma podciągu ciągu Fibonacciego o sumie {x}. Istnieją za to podciągi o wartościach {suma - z} i {suma}")
+     print(f"Nie ma podciągu ciągu Fibonacciego o sumie {x}. Istnieją natomiast podciągi o wartościach {suma - z} i {suma}")
