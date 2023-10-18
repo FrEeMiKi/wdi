@@ -1,2 +1,4 @@
 # wdi
-#Repozytorium z zadaniami z WDI
+# Repozytorium z zadaniami z WDI
+# Pozdrawiam
+
