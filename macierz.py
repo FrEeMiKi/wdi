@@ -49,4 +49,4 @@ max_value = max(max(row) for row in y)
 max_row_col = [(i + 1, j + 1) for i, row in enumerate(y) for j, value in enumerate(row) if value == max_value]
 
 print("Maximum value is", max_value)
-print("Maximum value's row and column:", max_row_col)
+print("Maximum value's row and column:", *max_row_col)
